@@ -1,3 +1,4 @@
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -11,6 +12,8 @@
     <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
     <link rel="stylesheet" rel="styesheet">
   </head>
+  ```
+  ```
   <body>
 <!-- Navigation -->
 <nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
@@ -40,6 +43,8 @@
   </div>
   </div>
 </nav>
+```
+```
 <!-- Image silder -->
 <div id="slides" class="carousel slide" date-ride="carousel">
   <ul class="carousel-indicators">
@@ -67,6 +72,8 @@
   </div>
 
 </div>
+```
+```
 <!-- Jumbotron -->
 <div class="container-fluid">
   <div class="row Jumbotron">
@@ -91,6 +98,8 @@
   </div>
 
 </div>
+```
+```
 <!-- Three column section -->
 <!-- Two Column Section -->
 <!-- Fixed Background -->
@@ -103,3 +112,4 @@
 
   </body>
 </html>
+```
