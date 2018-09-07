@@ -12,8 +12,6 @@
     <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
     <link rel="stylesheet" rel="styesheet">
   </head>
-  ```
-  ```
   <body>
 <!-- Navigation -->
 <nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
@@ -43,8 +41,6 @@
   </div>
   </div>
 </nav>
-```
-```
 <!-- Image silder -->
 <div id="slides" class="carousel slide" date-ride="carousel">
   <ul class="carousel-indicators">
@@ -72,8 +68,6 @@
   </div>
 
 </div>
-```
-```
 <!-- Jumbotron -->
 <div class="container-fluid">
   <div class="row Jumbotron">
@@ -91,20 +85,72 @@
     </div>
     <hr>
     <div class="col-12">
-      <p class="lead"></p>
-
+      <p class="lead">welcome to my</p>
     </div>
+  </div>
+</div>
+<!-- Three column section -->
+<div class="container-fluid padding">
+<div class="row text-center padding">
+  <div class="col-xs-12 col-sm-6 col-md-4">
+    <i class="fas fa-code"></i>
+    <h3>Html5</h3>
+    <p>build with the latest wersion of html,html5</p>
+  </div>
 
+  <div class="col-xs-12 col-sm-6 col-md-4">
+    <i class="fas fa-bold"></i>
+    <h3>Bootstrap</h3>
+    <p>build with the latest wersion of bootstrap,bootstrap</p>
+  </div>
+
+  <div class="col-xs-12  col-md-4">
+    <i class="fab fa-css3"></i>
+    <h3>CSS3</h3>
+    <p>build with the latest wersion of CSS,CSS3</p>
+  </div>
+  <hr class="my-4">
+</div>
+<!-- Two Column Section -->
+<div class="container-fluid padding">
+  <div class="now padding">
+    <h2>if you build it...</h2>
+    <p>if you build it...</p>
+    <p>if you build it...</p>
+    <p>if you build it...</p>
+    <br>
+    <a href="#" class="btn btn-primary">learn more</a>
+  </div>
+  <div class="col-lg-6">
+    <img src="img/desk.png" class="img-fluid">
   </div>
 
 </div>
-```
-```
-<!-- Three column section -->
-<!-- Two Column Section -->
 <!-- Fixed Background -->
+<button class="fun" data-toggle="collapse" data-target="#emoji">click for fun</button>
+<div id="emoji" class="collapse">
+  <div class="container-fluid padding">
+    <div class="row text-center">
+      <div class="col-sm-6 col-md-3">
+        <img class="git" src="img/git/pamda.git">
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <img class="git" src="img/git/pamda.git">
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <img class="git" src="img/git/pamda.git">
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <img class="git" src="img/git/pamda.git">
+      </div>
+    </div>
+  </div>
+</div>
 <!-- Emoji Section -->
 <!-- Meet the Team -->
+<div class="container-fluid padding">
+
+</div>
 <!-- Cards -->
 <!-- Two Column Section -->
 <!-- connect -->

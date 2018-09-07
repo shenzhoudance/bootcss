@@ -51,3 +51,17 @@ figure{
 /*-- bootstrap padding fix --*/
 [class*="col-"]
 padding:1rem;
+
+/*
+Extra Small（xs）devices(portrait phones, less than 576px)
+no media query since this is the default in bootstrap
+
+Small(sm)devices(landscape phones, 576px and up)
+@media (min-width: 578px){...}
+
+medium(md)devices(tablets, 768px and up)
+@media(min-width:768px){...}
+
+large(lg)devices (desktops 992px and up)
+@media(min-width: 992){...}
+*/
